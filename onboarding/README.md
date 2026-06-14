@@ -27,4 +27,4 @@
 
 ## 有問題找誰
 
-入職初期所有問題直接找 Ronny（ronnyc2@openfun.tw）。
+入職初期所有問題直接找 Ronny（ronny@openfun.tw）。
