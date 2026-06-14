@@ -6,6 +6,7 @@
 
 - [公司基本資訊](company/info.md)
 - [規範](policies/)
+  - [薪資與補貼](policies/compensation.md)
   - [請假制度](policies/leave.md)
   - [核銷制度](policies/expense.md)
   - [補貼制度](policies/benefits.md)
